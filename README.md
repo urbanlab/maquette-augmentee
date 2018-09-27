@@ -2,5 +2,6 @@
 
 MAM is an exemple of UDV is a JavaScript client based on [iTowns](https://github.com/itowns/itowns) allowing to visualize, analyse and interact with urban data.
 In first time you need to fork a copy of [UDV](https://github.com/MEPP-team/UDV) to your accompt.
+Follow the installation file of UDV avaliable [here](https://github.com/MEPP-team/UDV/blob/master/install.md).
 After this, you can modify your own version of MAM.
 To save your change you have to do a pull resquest of your copy to the original version of UDV.
