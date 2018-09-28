@@ -1,7 +1,8 @@
-# How work on MAM project
+# Maquette Augmentée pour la Médiation
 
-MAM is an exemple of UDV is a JavaScript client based on [iTowns](https://github.com/itowns/itowns) allowing to visualize, analyse and interact with urban data.
-In first time you need to fork a copy of [UDV](https://github.com/MEPP-team/UDV) to your accompt.
-Follow the installation file of UDV avaliable [here](https://github.com/MEPP-team/UDV/blob/master/install.md).
-After this, you can modify your own version of MAM.
-To save your change you have to do a pull resquest of your copy to the original version of UDV.
+MAM est un exemple d'utilisaion d'UDV, une application web client basée sur [iTowns](https://github.com/itowns/itowns), qui permet la visualisation, l'analyse et l'intercation avec des données urbaines.
+
+Cette page ne possède le projet mais groupe les liens necessaire pour le récuperer et l'utiliser.
+La version original est disponible dans le projet [UDV](https://github.com/MEPP-team/UDV) développé par les équipes du LIRIS. En suivant l'installation d'UDV disponible [ici](https://github.com/MEPP-team/UDV/blob/master/install.md), et celle de MAM qui est présente [là](https://github.com/MEPP-team/UDV/blob/master/UDV-Core/examples/MAM/Install.md).
+
+Une fois l'installation finie vous pouvez travailler sur le projet.
